@@ -123,14 +123,14 @@
     {
       "title": "SKIBIDI TOILET GARRY S MOD",
       "image": "https://play-lh.googleusercontent.com/RiZJHzo2xp7irTh1AMojBbGLZh6w8Nini_r8_w2_diTWKJtMua8xEWAU6ac_P4qieYGO=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
       
     },
     { 
       "title": "GMOD 2 Skibidi Toilet",
       "image": "https://play-lh.googleusercontent.com/7nGFh2Xh_bFzhtv0KwsgJmlR-Q1bILDWhabM35viXgz9q-ncL0mrpaodt50c-kQY1Qlj=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
 
       
@@ -139,7 +139,7 @@
       
       "title": "Skibidi Toilet  Chase 2 GMOD",
       "image": "https://play-lh.googleusercontent.com/B07amCtEzFu01gGNO99yZ8aDST71P0rbFy2D3FTVmmYkujJ6ANYB-QRPbxmJtAQM0gM=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
       
     }
@@ -147,7 +147,7 @@
        
       "title": "Skibidi Toilet  Chase 2 GMOD",
       "image": "https://play-lh.googleusercontent.com/B07amCtEzFu01gGNO99yZ8aDST71P0rbFy2D3FTVmmYkujJ6ANYB-QRPbxmJtAQM0gM=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
 
       
@@ -156,21 +156,21 @@
        
       "title": "SKIBIDI YES YES GMOD",
       "image": "https://play-lh.googleusercontent.com/7nGFh2Xh_bFzhtv0KwsgJmlR-Q1bILDWhabM35viXgz9q-ncL0mrpaodt50c-kQY1Qlj=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
     },
     {
        
       "title": "Skibidi garten for Garry's Mod",
       "image": "https://play-lh.googleusercontent.com/MeKU1RFlGHdX3_cOuFCeV29Su4Kpxi0nixDP-ATRYWW_UVzui98wHfY-qLMG0Uncew=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
     },
     {
       
       "title": "SKIBIDI TOILET GARRY S MOD",
       "image": "https://play-lh.googleusercontent.com/RiZJHzo2xp7irTh1AMojBbGLZh6w8Nini_r8_w2_diTWKJtMua8xEWAU6ac_P4qieYGO=w240-h480-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.ofbanban.garrysmod"
+      "url": "https://play.google.com/store/apps/details?hl=ru&gl=ru&id=com.apkmarket.toolrus"
 
     }
   ]
